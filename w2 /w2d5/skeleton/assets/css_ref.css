@@ -1,0 +1,15 @@
+body{font-family:Arial,sans-serif;background-color:#fefff1}
+h1{font-size:38px}h2{font-size:32px}
+ul li a,figcaption a{text-decoration:none;color:inherit}
+header>img{width:100px}
+.ingredients-list{list-style:square inside}
+ol{list-style-type: lower-greek} /* this is element styling */
+.user_review h4{font-size:18px;font-weight:700}
+input[type=radio]{-webkit-appearance:none;width:30px;height:30px;background-image:url(./stars.png);vertical-align:bottom} /* references the top star on stars.png */
+input[type=radio]:hover{background-position:30px 60px} /* bottom star on stars.png */
+input[type=radio]:checked{background-position:30px 30px} /*middle star on .png*/
+input:last-child{background:gold}
+input:last-child:hover{-webkit-filter:brightness(90%)}
+ol li:nth-of-type(2n){background-color:#f5f5f5}
+input[type=radio],select,input[type=submit]{cursor:pointer;outline:none}
+h2+.user_review{border-top:1px solid #000}

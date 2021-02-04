@@ -1,0 +1,15 @@
+body{font-family: Arial, Helvetica, sans-serif;}
+h1{font-size: 42px;}
+h2{font-size: 38px;}
+ingredients-list{list-style:square inside;}
+directions{list-style-type: katakana;}
+ol{list-style-type: lower-greek} /* this is element styling */
+a,figcaption a{text-decoration:none;}
+header>img{width:100px}
+.user_review h4{font-size:18px;font-weight:700}
+input[type=radio]{-webkit-appearance:none;width:256px;height:256px;background-image:url(./nyancat.png);vertical-align:bottom} /* sets the full set of pictures see css_ref and stars */
+input[type=radio]:hover{background-position:256px 128px}
+input[type=radio]:checked{background-position:30px 30px}
+input:last-child{background:gold}
+input:last-child:hover{-webkit-filter:brightness(90%)}
+

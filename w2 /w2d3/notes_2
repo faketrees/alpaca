@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby 
+
+#this ^ should execute this file in ruby after making it executable using chmod
+

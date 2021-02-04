@@ -1,0 +1,1 @@
+#inject has an accumulator and an element. it iterates and uses the logic defined in the block of 

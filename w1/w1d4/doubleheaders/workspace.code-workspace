@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../Assessments"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "appaca",
+		"git.ignoreLimitWarning": true
+	}
+}
